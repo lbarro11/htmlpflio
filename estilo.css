@@ -1,0 +1,45 @@
+
+.redset{
+	color: blue;
+	font-size:20px
+	
+}
+h2 {
+	font-family: Helvetica;
+	margin: 20px;
+	color: #973131
+}
+h1 {
+	font-family: Helvetica;
+	color: white;
+	background-color: #E0A75E
+	
+}
+p{
+	font-family: Helvetica;
+	font-weight: normal;
+	margin: 20px;
+	text-align: justify;
+	color: #973131;
+	}
+.items{
+	margin: 20px
+}
+body {
+	background: #F5E7B2
+}
+
+table {
+		background-color: #F9D689
+}
+.address{
+	font-family: Helvetica;
+	font-weight: bold;
+	margin: 20px;
+	text-align: justify;
+	color: #973131;
+	text-decoration: none
+}
+.photomargin{
+	margin: 30px
+}
