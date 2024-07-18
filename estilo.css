@@ -7,14 +7,14 @@
 h2 {
 	font-family: Helvetica;
 	margin: 20px;
-	color: #973131
+	color: #1A5319
 }
 h1 {
 	margin: 0;
 	font-family: Helvetica;
 	color: white;
-	background-color: #E0A75E;
-	border: 20px solid #F9D689;
+	background-color: #1A5319;
+	border: 20px solid #F508D4E;
 	border-width: 0px 0px 10px 0px;
 	
 }
@@ -23,14 +23,14 @@ p{
 	font-weight: normal;
 	margin: 20px;
 	text-align: justify;
-	color: #973131;
+	color: #1A5319;
 	}
 .items{
 	margin: 20px;
 	
 }
 body {
-	background: #F5E7B2;
+	background: #D6EFD8;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-top: 0px;
@@ -38,7 +38,7 @@ body {
 }
 
 table {
-		background-color: #F9D689;
+		background-color: #80AF81;
 		margin: 20px
 }
 .address{
@@ -46,7 +46,7 @@ table {
 	font-weight: bold;
 	margin: 20px;
 	text-align: justify;
-	color: #973131;
+	color: #1A5319;
 	text-decoration: none
 }
 .photomargin{
@@ -60,7 +60,7 @@ footer{
 	color: white;
 	font-family: Helvetica;
 	font-size: 10px;
-	background-color: #E0A75E;
+	background-color: #1A5319;
 	border-width: 2px 0px 0px 2px;
 }
 .relative{
