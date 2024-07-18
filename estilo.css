@@ -10,9 +10,12 @@ h2 {
 	color: #973131
 }
 h1 {
+	margin: 0;
 	font-family: Helvetica;
 	color: white;
-	background-color: #E0A75E
+	background-color: #E0A75E;
+	border: 20px solid #F9D689;
+	border-width: 0px 0px 10px 0px;
 	
 }
 p{
@@ -23,14 +26,20 @@ p{
 	color: #973131;
 	}
 .items{
-	margin: 20px
+	margin: 20px;
+	
 }
 body {
-	background: #F5E7B2
+	background: #F5E7B2;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 table {
-		background-color: #F9D689
+		background-color: #F9D689;
+		margin: 20px
 }
 .address{
 	font-family: Helvetica;
@@ -42,4 +51,44 @@ table {
 }
 .photomargin{
 	margin: 30px
+}
+.orcamento{
+	padding:20px
+}
+
+footer{
+	color: white;
+	font-family: Helvetica;
+	font-size: 10px;
+	background-color: #E0A75E;
+	border-width: 2px 0px 0px 2px;
+}
+.relative{
+	position: absolute;
+	left: 20px;
+	top: 20px
+}
+.box{
+	width: 200px;
+	height: 154px;
+	background-color: white
+}
+.relative2{
+	position: absolute;
+	right: 20px;
+	top: 20px
+}
+.bordatel{
+	font-size:13px;
+	margin-left:30px
+}
+.wz{
+	position: absolute;
+	right: 150px;
+	top: 31px
+}
+.mail{
+	position: absolute;
+	right: 150px;
+	top: 90px
 }
