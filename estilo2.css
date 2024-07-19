@@ -37,9 +37,12 @@ body {
 	margin-bottom: 0px;
 }
 
-table {
+.table {
 		background-color: #80AF81;
-		margin: 20px
+		margin: 20px;
+		border-radius: 12px;
+		display:block
+		
 }
 .address{
 	font-family: Helvetica;
@@ -112,4 +115,24 @@ footer{
 	right: 34px;
 	z-index:51
 				
+ }
+ .flex-container{
+	 display: flex;
+
+ }
+ .card{
+	 	background-color: #80AF81;
+		margin-left:20px;
+		margin-right:10px;
+		border-radius: 12px;
+
+ }
+ .first{
+	 flex:2;
+ }
+  .card2{
+	 	background-color: #80AF81;
+		margin-left:10px;
+		margin-right:20px;
+		border-radius: 12px;
  }
