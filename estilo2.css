@@ -1,0 +1,115 @@
+
+.redset{
+	color: blue;
+	font-size:20px
+	
+}
+h2 {
+	font-family: Helvetica;
+	margin: 20px;
+	color: #1A5319
+}
+h1 {
+	margin: 0;
+	font-family: Helvetica;
+	color: white;
+	background-color: #1A5319;
+	border: 20px solid #508D4E;
+	border-width: 0px 0px 10px 0px;
+	
+}
+p{
+	font-family: Helvetica;
+	font-weight: normal;
+	margin: 20px;
+	text-align: justify;
+	color: #1A5319;
+	}
+.items{
+	margin: 20px;
+	
+}
+body {
+	background: #D6EFD8;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+table {
+		background-color: #80AF81;
+		margin: 20px
+}
+.address{
+	font-family: Helvetica;
+	font-weight: bold;
+	margin: 20px;
+	text-align: justify;
+	color: #1A5319;
+	text-decoration: none
+}
+.photomargin{
+	margin: 30px
+}
+.orcamento{
+	padding:20px
+}
+
+footer{
+	color: white;
+	font-family: Helvetica;
+	font-size: 10px;
+	background-color: #1A5319;
+	border-width: 2px 0px 0px 2px;
+}
+.relative{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	border-radius: 12px
+}
+.box{
+	width: 200px;
+	height: 154px;
+	background-color: white
+}
+.relative2{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	border-radius: 12px
+}
+.bordatel{
+	font-size:13px;
+	margin-left:30px
+}
+.wz{
+	position: absolute;
+	right: 150px;
+	top: 31px
+}
+.mail{
+	position: absolute;
+	right: 150px;
+	top: 90px
+}
+
+.wzball{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	width: 96px;
+	height: 96px;
+	background-color: white;
+	border-radius: 50%;
+	z-index:50
+				
+ }
+ .waball{
+	position: fixed;
+	bottom: 34px;
+	right: 34px;
+	z-index:51
+				
+ }
