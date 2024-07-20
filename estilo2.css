@@ -118,21 +118,38 @@ footer{
  }
  .flex-container{
 	 display: flex;
-
+	flex-direction:row;
+	gap:10px;
  }
  .card{
 	 	background-color: #80AF81;
-		margin-left:20px;
+		margin-left:10px;
 		margin-right:10px;
+		margin-botton:10px;
 		border-radius: 12px;
-
+		
  }
  .first{
 	 flex:2;
  }
   .card2{
 	 	background-color: #80AF81;
-		margin-left:10px;
-		margin-right:20px;
+		
+		margin-left:0px;
+		margin-right:0px;
+		margin-botton:10px;
 		border-radius: 12px;
+ }
+ @media(max-width:600px){
+	 .flex-container{
+		 flex-direction:column;
+	 }
+	 .card2{
+		 margin-left:10px;
+		 margin-right:10px
+	 }
+	 h1{
+		 color: #1A5319;
+		 	border-width: 0px 0px 80px 0px;
+	 }
  }
